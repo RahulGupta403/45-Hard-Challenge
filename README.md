@@ -1,2 +1,2 @@
-# 45-Hard-Challenge
-Activitating Extreme Beast Mode 
+# 45-Days-Hard-Challenge
+Activating Extreme Beast Mode 
